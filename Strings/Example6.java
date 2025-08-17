@@ -1,7 +1,5 @@
 public class Example6{
     public static void main(String[] args) {
-        String s1="JAVA";
-        String s2="PYTHON";
 		String s3="JAVA"+"PYTHON";
 		String s4="JAVA"+"PYTHON";
         

@@ -1,4 +1,3 @@
-import java.util.StringTokenizer;
 class TokenizerUsingSplit {
     public static void main(String[] args) {
         String s = "JAVA PYTHON SQL AI";
