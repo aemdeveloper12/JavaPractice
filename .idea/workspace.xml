@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d020c9fe-48a8-48d4-be20-5be59c8b7a74" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Encapsulation/BankAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Encapsulation/CustomerConstructor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Encapsulation/CustomerConstructor1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Encapsulation/CustomerConstructor2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Encapsulation/CustomerEncaps2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Encapsulation/Encaps1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Encapsulation/Encaps1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Encapsulation/Encaps2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Encapsulation/Encaps2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Encapsulation/Encaps3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Encapsulation/Encaps3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Encapsulation/Encaps4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Encapsulation/Encaps4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Encapsulation/Encaps5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Encapsulation/Encaps5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inheritance/Example1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inheritance/InheritanceExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inheritance/PlaneExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inheritance/Rule1AccessSpecifier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inheritance/Rule3AccessSpecifier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaPractice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaPractice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Static/Example1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Static/Example2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Static/Example3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Static/Example4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/Example1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/Example1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/Example2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/Example2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/Example3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/Example3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/Example4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/Example4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/Example5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/Example5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/Example6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/Example6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/Example7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/Example7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/StringBufferExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/StringBufferExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/StringConcatenation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/StringConcatenation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/StringTokenizerExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/StringTokenizerExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/TokenizerUsingSplit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/TokenizerUsingSplit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/Example1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/Example2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/Example3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/Example4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/Example5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/Example6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/Example7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/StringBufferExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/StringConcatenation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaPractice/StringTokenizerExample.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "aemdeveloper12"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/aemdeveloper12/JavaPractice.git",
+    "accountId": "7397ba60-932e-45dd-92e5-981f285bc602"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="31SDnoJS88HQ8Xjs9c5mola3JsA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/HP_Elitebook/rupa"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d020c9fe-48a8-48d4-be20-5be59c8b7a74" name="Changes" comment="" />
+      <created>1755508749855</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1755508749855</updated>
+    </task>
+    <servers />
+  </component>
+</project>
